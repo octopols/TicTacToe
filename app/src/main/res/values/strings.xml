@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="Typos">Tic Tac Toe</string>
+    <string name="title">Tic Tac Toe</string>
+    <string name="cell_1" tools:ignore="Typos">cell_1</string>
+    <string name="cell_2">cell_2</string>
+    <string name="cell_3">cell_3</string>
+    <string name="cell_4">cell_4</string>
+    <string name="cell_5">cell_5</string>
+    <string name="cell_6">cell_6</string>
+    <string name="cell_7">cell_7</string>
+    <string name="cell_8">cell_8</string>
+    <string name="cell_9">cell_9</string>
+    <string name="grid">grid</string>
+    <string name="sample_text">X\'s Turn</string>
+    <string name="o_turn">O\'s Turn</string>
+    <string name="x_turn">X\'s Turn</string>
+    <string name="credit">Made By - Hirnaymay Bhaskar</string>
+</resources>
